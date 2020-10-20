@@ -139,5 +139,5 @@ This application requires much more work to become a polished weather widget. He
 * Currently, API request is using metric units as default. We can add a user input to switch between
 * Pollen count is not available in this API. Might need to use some paid options for it
 * Accessibility improvements can be added
-* Overall UI refinements to become closer to the mockups
+* Overall UI refinements to become closer to the mockups and more error handling logic is required
 * Many PNG icons should be replaced with SVGs 
