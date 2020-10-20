@@ -135,6 +135,8 @@ This is not in place yet, however in future we can have custom hooks here for ho
 This application requires much more work to become a polished weather widget. Here is my feedback in case you would like me to address some of these issues or add improvements.
 
 * Coding for this widget functionality is not complete yet
+* I have added a lambda proxy to get around CORS problem. There should be a better solution for it
+* Currently, API request is using metric units as default. We can add a user input to switch between
 * Pollen count is not available in this API. Might need to use some paid options for it
 * Accessibility improvements can be added
 * Overall UI refinements to become closer to the mockups
