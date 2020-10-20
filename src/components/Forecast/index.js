@@ -54,7 +54,7 @@ const Day = styled('div')`
   margin-bottom: 0.5em;
 `;
 
-const getImageUrl = icon => `http://openweathermap.org/img/wn/${icon}@2x.png`;
+const getImageUrl = icon => `https://openweathermap.org/img/wn/${icon}@2x.png`;
 
 export const Forecast = ({ dailyForecast }) => {
   return (

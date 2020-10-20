@@ -23,7 +23,7 @@ describe('<Forecast />', () => {
   });
 
   it('should render image', () => {
-    expect(wrapper.find('img').prop('src')).toEqual('http://openweathermap.org/img/wn/10n@2x.png');
+    expect(wrapper.find('img').prop('src')).toEqual('https://openweathermap.org/img/wn/10n@2x.png');
     expect(wrapper.find('img').prop('alt')).toEqual('It is Clear');
   });
 
