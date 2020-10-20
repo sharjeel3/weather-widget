@@ -80,7 +80,7 @@ This application is a PWA built with React and Redux.
 
 #### 1. Location feature
 
-I have added a location lookup using Google Maps JavaScript API. This is used to retrieve latitude and longitude points for selected input. 
+I have added a location lookup using Google Maps JavaScript API. This is used to retrieve latitude and longitude points for selected location. 
 
 #### 2. Show 7 day forecast
 
@@ -136,7 +136,7 @@ This application requires much more work to become a polished weather widget. He
 
 * Coding for this widget functionality is not complete yet
 * I have added a lambda proxy to get around CORS problem. There should be a better solution for it
-* Currently, API request is using metric units as default. We can add a user input to switch between
+* Currently, API request is using metric units as default. We can add a user input to switch between metric and imperial units
 * Pollen count is not available in this API. Might need to use some paid options for it
 * Accessibility improvements can be added
 * Overall UI refinements to become closer to the mockups and more error handling logic is required
