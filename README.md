@@ -22,7 +22,7 @@ https://openweathermap.org/weather-conditions
 
 ## Show me the app
 
-The production app is hosted on Netlify CDN via this URL https://weather-widget.netlify.app/
+The production app is hosted on Netlify CDN via this URL https://weather-widget-react-app.netlify.app/
 
 ## Available Scripts
 
